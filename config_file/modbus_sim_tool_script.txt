@@ -1,0 +1,6 @@
+SetRegisterValue 2, 0, 1000
+SetRegisterValue 2, 1481, 22000
+SetRegisterValue 2, 1482, 23000
+SetRegisterValue 2, 1483, 24000
+SetRegisterValue 3, 0, 4100
+SetRegisterValue 3, 25535, 6553

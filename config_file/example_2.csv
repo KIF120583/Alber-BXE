@@ -1,0 +1,4 @@
+function_Code,register,address,data,expecteddata
+0x04,30001,300001,2000,31.00 V
+0x04,31482,301482,3148,31.00 V
+0x03,40001,400001,4100,31.00 V

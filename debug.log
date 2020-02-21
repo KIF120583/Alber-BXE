@@ -1,0 +1,2 @@
+[0220/111901.711:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\tkao\AppData\Local\Temp\scoped_dir29340_1361275350\Crashpad: The system cannot find the file specified. (0x2)
+[0220/112320.403:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\tkao\AppData\Local\Temp\scoped_dir26192_1558894538\Crashpad: The system cannot find the file specified. (0x2)

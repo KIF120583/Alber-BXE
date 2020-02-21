@@ -1,0 +1,1 @@
+Example: 31019 in Vertiv/Polaris HPL spec is 301019 under Analog Inputs (300000)

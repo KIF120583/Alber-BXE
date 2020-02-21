@@ -1,0 +1,28 @@
+- Install BXE
+    1. Install BXE and SQL Server 2008 R2
+    
+    2. Start Watchdog
+
+    3. SQL Server Network Configuration -> TCP/IP -> Content -> IP Addresses -> Enable the mapping ip's Enabled and TCP Dynamic Ports to 1433 on IPALL
+    
+    4. Enable all Protocols and restart SQL Server 
+    
+    5. SQL Server Service -> SQL Server -> Content -> FILESTREAM -> Enable the below items 
+       - Enable FILESTREAM for Transact-SQL access 
+       - Enable FILESTREAM for file I/O streaming access 
+       - Allow remote clients to have streaming access to FILESTREAM data 
+       - Give a name to Windows share name , in current test , I give "SQLEXPRESS"
+    
+    6. Enable all Protocols and restart SQL Server 
+    
+    7. Open MODBUS Eth. TCP/IP PLC - Simulator (port : 502) and connected 
+    
+    8. Open Battery Xplorer Enterprise Database Import Manager -> Connect To Data Source and Connect To BX Enterprise -> Create a new Database 
+    
+    9. Open Battery Xplorer Enterprise Monitor Service Manager and connect SamsungLithiumion...
+    
+    10. Open BXE Web Application Manager and connect to Database -> Keep the initialized window
+    
+    11. Open BXE Web 
+
+    

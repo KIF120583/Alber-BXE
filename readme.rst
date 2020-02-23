@@ -3,6 +3,7 @@ BXE System Sample
 ================================
 
 - RobotFramework 
+- RobotFramework-Selenium 
 
 .. contents::
 
